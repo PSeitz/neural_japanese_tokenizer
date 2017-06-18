@@ -1,0 +1,8 @@
+[package]
+name = "neural_japanese_tokenizer"
+version = "0.1.0"
+authors = ["Pascal Seitz <pascal.seitz@gmail.com>"]
+
+[dependencies]
+regex = "0.2"
+itertools = "0.6.0"
